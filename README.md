@@ -1,6 +1,6 @@
-<p align="center">
+<h1 align="center">
   Hi 👋 My name is Aline
-</p>
+</h1>
 ======================
 
 
