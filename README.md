@@ -26,7 +26,7 @@ Student
 
   
   <h2 align="center">Library and Framework</h2>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+  <a align="center" href="https://tailwindcss.com/" target="_blank" rel="noreferrer" >
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
