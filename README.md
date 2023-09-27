@@ -34,8 +34,10 @@
   </a>
 </p>
 
+<h2>
+  ### Socials  
+</h2>
 
-### Socials
 
 <p align="center"> 
   <a href="https://www.github.com/kasidit1k" target="_blank" rel="noreferrer"> 
