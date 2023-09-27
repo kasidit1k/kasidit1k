@@ -34,8 +34,8 @@
   </a>
 </p>
 
-<h2>
-  ### Socials  
+<h2 align="center">
+   Socials  
 </h2>
 
 
