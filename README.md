@@ -1,4 +1,6 @@
-Hi 👋 My name is Aline
+<p align="center">
+  Hi 👋 My name is Aline
+</p>
 ======================
 
 
