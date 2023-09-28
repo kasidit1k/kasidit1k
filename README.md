@@ -36,9 +36,9 @@
   </a>
 </p>
 
-<h2 align="center">
+<h4 align="center">
    Socials  
-</h2>
+</h4>
 
 
 <p align="center"> 
