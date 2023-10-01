@@ -7,7 +7,7 @@
 </p>
 
 
-<h4 align="center">LANGUAGES AND TOOLS</h4>
+<h3 align="center">LANGUAGES AND TOOLS</h3>
 <p align="center">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
@@ -29,16 +29,16 @@
   </a>
 </p>
 
-  <h4 align="center">LIBRARIES AND FRAMEWORKS</h4>
+  <h3 align="center">LIBRARIES AND FRAMEWORKS</h3>
   <p align="center">
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" >
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
   </a>
 </p>
 
-<h4 align="center">
+<h3 align="center">
    Socials  
-</h4>
+</h3>
 
 
 <p align="center"> 
