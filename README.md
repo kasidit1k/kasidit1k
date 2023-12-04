@@ -69,7 +69,7 @@
 </a>
 
 <span align="right">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height=200px" width="280px" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height=200px" width="250px" alt="streak graph"  />
 <span>
 
 ###
