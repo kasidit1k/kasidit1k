@@ -1,6 +1,5 @@
-![image](https://github.com/kasidit1k/kasidit1k/assets/130274177/765ec4b0-f151-4fe2-a123-6a2a3558ac5d)<div align="center">
-  <img height="150" src="![image](https://github.com/kasidit1k/kasidit1k/assets/130274177/2dce437e-5cdd-49a9-98d1-fd8c6386783a)
-/>
+<div align="center">
+  <img height="150" src="![image](https://github.com/kasidit1k/kasidit1k/assets/130274177/2dce437e-5cdd-49a9-98d1-fd8c6386783a) />
 </div>
 
 ###
