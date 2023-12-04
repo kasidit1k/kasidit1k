@@ -40,8 +40,6 @@
 
 <h3 align="center">👩‍💻 LIBRARIES AND FRAMEWORKS</h3>
 
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="120" alt="tailwindcss logo"  />
 </div>
@@ -49,9 +47,6 @@
 ###
 
 <h3 align="center">📚 Socials</h3>
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
