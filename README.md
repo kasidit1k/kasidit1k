@@ -1,5 +1,5 @@
 <div align="center">
-  <img border-radius="20px" height="150" src="https://github.com/kasidit1k/kasidit1k/assets/130274177/0b3aa384-f835-4c22-b9c4-e08925817fd9)" />
+  <img height="180" src="https://github.com/kasidit1k/kasidit1k/assets/130274177/0b3aa384-f835-4c22-b9c4-e08925817fd9)" />
 </div>
 
 ###
