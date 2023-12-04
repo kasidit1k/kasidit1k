@@ -1,8 +1,8 @@
 <h2 align="center">「 My name is Aline 👋</b> 」</h2>
 
-<span align="center">
+<div align="center">
   <img height="180" src="https://github.com/kasidit1k/kasidit1k/assets/130274177/d64ae7fa-e4a0-4b15-9886-762efaaad3e3" />
-</span>
+</div>
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
