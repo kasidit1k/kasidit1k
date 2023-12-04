@@ -41,7 +41,7 @@
 
 ###
 
-<h3 align="center">LIBRARIES AND FRAMEWORKS</h3>
+<h3 align="center">🛠 LIBRARIES AND FRAMEWORKS</h3>
 
 ###
 
