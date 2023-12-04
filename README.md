@@ -48,7 +48,7 @@
 
 ###
 
-<h3 align="center">Socials</h3>
+<h3 align="center"><i class="ri-layout-masonry-fill"></i>Socials</h3>
 
 ###
 
