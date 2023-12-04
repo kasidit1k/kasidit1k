@@ -16,11 +16,11 @@
 ###
 
 
-<h4 align="center"> Introvert. </h4>
+<h3 align="center"> Introvert. </h3>
 
 ###
 
-<h4 align="center">🛠 LANGUAGES AND TOOLS</h4>
+<h3 align="center">🛠 LANGUAGES AND TOOLS</h3>
 
 ###
 
@@ -38,7 +38,7 @@
 
 ###
 
-<h4 align="center">👩‍💻 LIBRARIES AND FRAMEWORKS</h4>
+<h3 align="center">👩‍💻 LIBRARIES AND FRAMEWORKS</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="100" alt="tailwindcss logo"  />
@@ -46,7 +46,7 @@
 
 ###
 
-<h4 align="center">📚 Socials</h4>
+<h3 align="center">📚 Socials</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
@@ -67,7 +67,7 @@
 </a>
 
 <span align="right">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" width="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" width="250" alt="streak graph"  />
 <span>
 
 ###
