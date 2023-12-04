@@ -64,15 +64,15 @@
 
 
 <a href="http://www.github.com/kasidit1k">
-<img src="https://github-readme-stats.vercel.app/api?username=kasidit1k&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="kasidit1k's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kasidit1k&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="kasidit1k's GitHub stats" />
 </a>
 
 <a href="https://github.com/kasidit1k" align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasidit1k&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasidit1k&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 </a>
 
 <div align="right">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" width="120px" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" width="100px" alt="streak graph"  />
 </div>
 
 ###
