@@ -1,5 +1,6 @@
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"](https://lh3.googleusercontent.com/a/ACg8ocK88BzDS_S4tG4Yy0r4ZfdRRJey-GsyM_qstakftAY26Is=s288-c-no](https://lh3.googleusercontent.com/a/ACg8ocK88BzDS_S4tG4Yy0r4ZfdRRJey-GsyM_qstakftAY26Is=s288-c-no />
+![image](https://github.com/kasidit1k/kasidit1k/assets/130274177/765ec4b0-f151-4fe2-a123-6a2a3558ac5d)<div align="center">
+  <img height="150" src="![image](https://github.com/kasidit1k/kasidit1k/assets/130274177/2dce437e-5cdd-49a9-98d1-fd8c6386783a)
+/>
 </div>
 
 ###
