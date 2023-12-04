@@ -46,7 +46,7 @@
 
 ###
 
-<h3 align="center">📚 Socials</h3>
+<h4 align="center">📚 Socials</h4>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
