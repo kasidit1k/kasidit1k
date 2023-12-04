@@ -1,6 +1,7 @@
-
 [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
-<h1 align="center">My name is Aline 👋</h1>
+
+
+<h1 align="center">「 My name is Aline 👋</b> 」</h1>
 
 <div align="center">
   <img height="180" src="https://github.com/kasidit1k/kasidit1k/assets/130274177/9d663cc3-aafc-4613-827f-e33bfc2d12d7" />
