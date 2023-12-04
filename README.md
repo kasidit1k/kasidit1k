@@ -1,10 +1,10 @@
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
+![image](https://github.com/kasidit1k/kasidit1k/assets/130274177/6c2e3ca9-af77-4383-804f-026df74140d7)[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
 
 
 <h2 align="center">「 My name is Aline 👋</b> 」</h2>
 
 <div align="center">
-  <img height="180" src="https://github.com/kasidit1k/kasidit1k/assets/130274177/5d514d5e-646e-4917-be72-ac2155f8cee3" />
+  <img height="180" src="https://github.com/kasidit1k/kasidit1k/assets/130274177/d64ae7fa-e4a0-4b15-9886-762efaaad3e3" />
 </div>
 
 ###
