@@ -1,6 +1,3 @@
-![image](https://github.com/kasidit1k/kasidit1k/assets/130274177/6c2e3ca9-af77-4383-804f-026df74140d7)[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
-
-
 <h2 align="center">「 My name is Aline 👋</b> 」</h2>
 
 <div align="center">
