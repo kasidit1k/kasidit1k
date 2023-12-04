@@ -4,7 +4,7 @@
 <h2 align="center">「 My name is Aline 👋</b> 」</h2>
 
 <div align="center">
-  <img height="180" src="https://github.com/kasidit1k/kasidit1k/assets/130274177/9d663cc3-aafc-4613-827f-e33bfc2d12d7" />
+  <img height="180" src="https://github.com/kasidit1k/kasidit1k/assets/130274177/5d514d5e-646e-4917-be72-ac2155f8cee3" />
 </div>
 
 ###
