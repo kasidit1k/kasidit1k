@@ -1,6 +1,6 @@
 <h2 align="center">「 My name is Aline 👋</b> 」</h2>
 
-<span align="left">
+<span align="center">
   <img height="180" src="https://github.com/kasidit1k/kasidit1k/assets/130274177/d64ae7fa-e4a0-4b15-9886-762efaaad3e3" />
 </span>
 
