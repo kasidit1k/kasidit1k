@@ -20,7 +20,7 @@
 
 ###
 
-<h3 align="center">🛠 Language and tools</h3>
+<h4 align="center">🛠 LANGUAGES AND TOOLS</h4>
 
 ###
 
@@ -38,7 +38,7 @@
 
 ###
 
-<h3 align="center">👩‍💻 LIBRARIES AND FRAMEWORKS</h3>
+<h4 align="center">👩‍💻 LIBRARIES AND FRAMEWORKS</h4>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="120" alt="tailwindcss logo"  />
