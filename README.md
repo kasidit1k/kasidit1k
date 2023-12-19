@@ -18,7 +18,7 @@
 ###
 
 
-<p align="center"> &gt 🎮 Introvert. </p>
+<p align="center"> 🎮 Introvert. </p>
 
 ###
 
