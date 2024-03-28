@@ -37,8 +37,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
+  <img src="https://www.php.net/images/logos/new-php-logo.svg" height="30" alt = "php" width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img src="https://www.php.net/images/logos/new-php-logo.svg" height="30" alt = "php" />
+  
 </div>
 
 ###
