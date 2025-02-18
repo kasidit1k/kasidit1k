@@ -20,7 +20,6 @@
 ###
 
 
- <a href=”https://twitter.com/deepajarout"><img align=”left” src=”https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296514_bird_tweet_twitter_twitter logo_icon.png” alt=”deepa Jarout| Twitter” width=”35px”/></a>
 
 ###
 
