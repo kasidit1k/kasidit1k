@@ -1,7 +1,7 @@
 <h2 align="center">「 My name is Doctype 😎 </b> 」</h2>
 
 <div align="center" style="border-raduis: 5px">
-  <img height="180" src="https://github.com/kasidit1k/kasidit1k/assets/130274177/d64ae7fa-e4a0-4b15-9886-762efaaad3e3" />
+  <img height="180" src="https://lh3.googleusercontent.com/a/ACg8ocJ5WRTn8nlYg26NDK1jz_wfMlOevpdcTz-91bfrTbkYmGskVs4=s576-c-no" />
 </div>
 
 <p align="center"> 🎮 Introvert </p>
