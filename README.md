@@ -55,6 +55,14 @@
 
 ###
 
+###
+
+<h3 align="center">Tools</h3>
+<div align="center">
+  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+</div>
+
 <h3 align="center">📚 Socials</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
