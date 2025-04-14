@@ -1,4 +1,4 @@
-<h2 align="center">「 My name is Doctype 😎 </b> 」</h2>
+<h2 align="center">「 My name is Kasidit 😎 </b> 」</h2>
 
 <div align="center" style="border-raduis: 5px">
   <img height="180" src="https://lh3.googleusercontent.com/a/ACg8ocLfku2wx1IYuXyAOTXGnUgFokI3T0QfavTJABUXUzDV5DB77fMK=s576-c-no" />
