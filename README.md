@@ -4,7 +4,7 @@
   <img height="180" src="https://lh3.googleusercontent.com/a/ACg8ocLfku2wx1IYuXyAOTXGnUgFokI3T0QfavTJABUXUzDV5DB77fMK=s576-c-no" />
 </div>
 
-<p align="center"> 🎮 Extrovert </p>
+<p align="center" style="font-weight: bold"> 🎮 Extrovert </p>
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
