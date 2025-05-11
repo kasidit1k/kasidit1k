@@ -32,11 +32,11 @@ I'm a Full Stack Developer Intern 🧑🏻‍💻
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kasidit1k/kasidit1k/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kasidit1k/kasidit1k/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/kasidit1k/kasidit1k/output/github-snake.svg" />
-</picture>
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/kasidit1k/kasidit1k/output/snake.svg" alt="Snake animation" />
 
 ###
 
