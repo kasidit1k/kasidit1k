@@ -28,16 +28,12 @@ I'm a Full Stack Developer Intern 🧑🏻‍💻
 ![](https://github-contributor-stats.vercel.app/api?username=kasidit1k&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-![snake gif](https://github.com/kasidit1k/kasidit1k/blob/output/github-snake-dark.svg
+![snake gif](https://github.com/kasidit1k/YOUR_USERNAME/blob/output/github-snake-dark.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/kasidit1k/kasidit1k/output/snake.svg" alt="Snake animation" />
 
 ###
