@@ -5,7 +5,7 @@
 
 # 💫 About Me:
 I'm Kasidit <br />
-I'm a Full Stack Developer Intern 🧑🏻‍💻
+: Full Stack Developer Intern 🧑🏻‍💻
 
 
 ## 🌐 Socials:
