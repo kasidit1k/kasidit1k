@@ -28,7 +28,7 @@ I'm a Full Stack Developer Intern 🧑🏻‍💻
 ![](https://github-contributor-stats.vercel.app/api?username=kasidit1k&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kasidit1k&icon=0&color=0)](https://visitcount.itsvg.in)
+![snake gif](https://github.com/kasidit1k/kasidit1k/blob/output/github-snake-dark.svg
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
