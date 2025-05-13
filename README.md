@@ -28,8 +28,20 @@ I'm Kasidit <br />
 ![](https://github-contributor-stats.vercel.app/api?username=kasidit1k&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-![snake gif](https://github.com/kasidit1k/YOUR_USERNAME/blob/output/github-snake-dark.svg)
-
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
