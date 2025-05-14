@@ -16,6 +16,7 @@ I'm Kasidit <br />
 
 ###
 
+## Contributions
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kasidit1k/kasidit1k/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kasidit1k/kasidit1k/output/github-contribution-grid-snake.svg">
