@@ -4,8 +4,8 @@
 </div>
 
 # 💫 About Me:
-I'm Kasidit <br />
-I'll be working here as a Full Stack Developer Intern🧑🏻‍💻
+<h4> 👋 I'm Kasidit </h4> <br />
+<h5> 🧑🏻‍💻 I'll be working here as a Full Stack Developer Intern.</h5>
 
 
 ## 🌐 Socials:
