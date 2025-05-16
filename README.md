@@ -1,10 +1,10 @@
 <div align="center">
-<div align="center" style="border-raduis: 5px">
+<!-- <div align="center" style="border-raduis: 5px">
   <img height="180" src="https://lh3.googleusercontent.com/a/ACg8ocLfku2wx1IYuXyAOTXGnUgFokI3T0QfavTJABUXUzDV5DB77fMK=s576-c-no" />
-</div>
+</div> -->
 
 # 💫 About Me:
-<h4> 👋 I'm Kasidit <br/> </h4>
+<h2> 👋 I'm Kasidit <br/> </h2>
 <h5> 🧑🏻‍💻 I'll be working here as a Full Stack Developer Intern.</h5>
 
 
