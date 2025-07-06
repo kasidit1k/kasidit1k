@@ -1,7 +1,5 @@
 <div align="center">
-<!-- <div align="center" style="border-raduis: 5px">
-  <img height="180" src="https://lh3.googleusercontent.com/a/ACg8ocLfku2wx1IYuXyAOTXGnUgFokI3T0QfavTJABUXUzDV5DB77fMK=s576-c-no" />
-</div> -->
+
 
 # 💫 About Me:
 <h2> I'm Kasidit Nunkong <br/> </h2>
