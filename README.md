@@ -16,8 +16,9 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kasidit1k/kasidit1k/output/github-contribution-grid-snake.svg">
 </picture>
 
-<div align="center">
+
 # 📊 GitHub Stats:
+<div align="center">
 ![](https://nirzak-streak-stats.vercel.app/?user=kasidit1k&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kasidit1k&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
