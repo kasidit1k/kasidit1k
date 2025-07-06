@@ -1,7 +1,5 @@
 <div align="center">
 
-
-# 💫 About Me:
 <h2> I'm Kasidit Nunkong <br/> </h2>
 <h5> 🧑🏻‍💻 I'll be working here as a Full Stack Developer Intern.</h5>
 
